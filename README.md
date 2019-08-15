@@ -3,5 +3,5 @@ using jupyter notebooks, the pandas library for data analysis, and bokeh for plo
 
 ## data_visualizations
 ```
-cd Assignment2 && Assignment2_LuciaEveBerger-KumailRaza.ipynb
+cd Assignment2_Kamolchanok-Alfitra.ipynb
 ```
